@@ -1,0 +1,24 @@
+
+h1{
+    color : blueviolet;
+    text-align: center;
+    font-size: 40pt;
+    font-family: Comic Sans MS;
+}
+body{
+    background-image: url(f2.jpg);
+    /*background-repeat: no-repeat;*/
+    background-size: cover;
+}
+
+
+}
+.descr{
+    text-align: center;
+    font-size: 20pt;
+}
+.descr2{
+    text-align: center;
+    font-size: 20pt;
+    line-height: 200%
+}
